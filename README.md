@@ -1,8 +1,9 @@
 # CrowdLift
-
+<hr>
 **"Fuel Innovation, Crowdfund Your Success with CrowdLift"**
 
 CrowdLift is an open-source crowdfunding platform designed to support open-source projects, products, and startups. This repository contains separate modules for the Frontend, Backend, Payment Gateway integration, and an ML Chatbot.
+A transformative crowdsourcing platform that connects the world’s most promising open-source projects, pioneering products, and ambitious startups with a network of enthusiastic backers and contributors.
 
 ## Table of Contents
 - [Introduction](#introduction)
